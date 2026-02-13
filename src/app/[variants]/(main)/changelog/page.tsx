@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { Divider, Skeleton } from 'antd';
 import { notFound } from 'next/navigation';
 import { Fragment, Suspense } from 'react';
